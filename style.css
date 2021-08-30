@@ -24,7 +24,7 @@
     line-height: 5px;
 }
 
-@media (min-width: 320px) and (max-width: 480px) {
+@media (min-width: 320px) and (max-width: 560px) {
     .position{
         padding-left: -100px !important;
         margin-top: -85px;
